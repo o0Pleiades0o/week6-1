@@ -45,7 +45,7 @@ function App() {
           </div>
         </nav>
       </header>
-      <div className="container ">
+      <div className="container">
         <h1 className="text-center p-4">Products</h1>
         <div className="d-flex row justify-content-center gap-4">
           {
